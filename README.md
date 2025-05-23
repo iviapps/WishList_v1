@@ -51,7 +51,7 @@ The core functionality revolves around managing a personalized gift list, with a
 
 The project also includes a **web version** of the app built with **React Native** and deployed via **Vercel**.
 
-👉 [Visit Web Version](https://www.example.com)
+👉 [Visit Web Version](https://wish-list-v1.vercel.app/)
 
 ---
 
