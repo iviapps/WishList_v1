@@ -1,4 +1,4 @@
-# 🎁 WishList v2
+# 🎁 WishList v1.2
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/iviapps/WishList_v1?style=social)
 ![Firebase](https://img.shields.io/badge/backend-Firebase-ffca28?logo=firebase)
