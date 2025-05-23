@@ -39,3 +39,4 @@ app/*.keystore
 
 #else
 app/src/main/java/com/iviapps/wishlistbyivi/services/
+.kotlin/errors
