@@ -1,0 +1,42 @@
+# === Android/Gradle ===
+.gradle/
+local.properties
+*.iml
+.idea/
+build/
+captures/
+.externalNativeBuild/
+
+# Android Studio / IntelliJ
+*.iws
+*.ipr
+*.bak
+*.swp
+
+# Kotlin specific
+*.class
+*.jar
+*.war
+*.ear
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# === Firebase/Secrets ===
+**/google-services.json
+**/GoogleService-Info.plist
+.firebase/
+.firebaserc
+
+# Release builds (optional but safer)
+app/release/
+app/*.keystore
+*.jks
+
+# NDK / CMake cache
+.cxx/
+
+#else
+app/src/main/java/com/iviapps/wishlistbyivi/services/
+.kotlin/errors
